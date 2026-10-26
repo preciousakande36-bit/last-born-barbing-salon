@@ -1,0 +1,8 @@
+{
+  "name": "Remix Last Born Barbing Salon",
+  "description": "Premium barbing salon website for Last Born Barbing Salon in Ijebu-Jesa, Osun State, Nigeria, featuring instant WhatsApp booking, service menu, gallery, Google reviews, and location details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
